@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationVisibility</string>
+    <string name="channel_name">lockScreenNotyfication</string>
+    <string name="channel_description">testing chanel for notification visibility</string>
+</resources>
